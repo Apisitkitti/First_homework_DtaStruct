@@ -1,0 +1,15 @@
+E:\MDT211\LinkLISTHOMEWORK\bin\Debug\net6.0\LinkLISTHOMEWORK.exe
+E:\MDT211\LinkLISTHOMEWORK\bin\Debug\net6.0\LinkLISTHOMEWORK.deps.json
+E:\MDT211\LinkLISTHOMEWORK\bin\Debug\net6.0\LinkLISTHOMEWORK.runtimeconfig.json
+E:\MDT211\LinkLISTHOMEWORK\bin\Debug\net6.0\LinkLISTHOMEWORK.dll
+E:\MDT211\LinkLISTHOMEWORK\bin\Debug\net6.0\LinkLISTHOMEWORK.pdb
+E:\MDT211\LinkLISTHOMEWORK\obj\Debug\net6.0\LinkLISTHOMEWORK.csproj.AssemblyReference.cache
+E:\MDT211\LinkLISTHOMEWORK\obj\Debug\net6.0\LinkLISTHOMEWORK.GeneratedMSBuildEditorConfig.editorconfig
+E:\MDT211\LinkLISTHOMEWORK\obj\Debug\net6.0\LinkLISTHOMEWORK.AssemblyInfoInputs.cache
+E:\MDT211\LinkLISTHOMEWORK\obj\Debug\net6.0\LinkLISTHOMEWORK.AssemblyInfo.cs
+E:\MDT211\LinkLISTHOMEWORK\obj\Debug\net6.0\LinkLISTHOMEWORK.csproj.CoreCompileInputs.cache
+E:\MDT211\LinkLISTHOMEWORK\obj\Debug\net6.0\LinkLISTHOMEWORK.dll
+E:\MDT211\LinkLISTHOMEWORK\obj\Debug\net6.0\refint\LinkLISTHOMEWORK.dll
+E:\MDT211\LinkLISTHOMEWORK\obj\Debug\net6.0\LinkLISTHOMEWORK.pdb
+E:\MDT211\LinkLISTHOMEWORK\obj\Debug\net6.0\LinkLISTHOMEWORK.genruntimeconfig.cache
+E:\MDT211\LinkLISTHOMEWORK\obj\Debug\net6.0\ref\LinkLISTHOMEWORK.dll
