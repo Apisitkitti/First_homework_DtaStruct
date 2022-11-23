@@ -88,7 +88,12 @@ class Program
             }
      
         }
-         for(int i =0; i< queue1.GetLength(); i++)
+        DataPrint(queue1);
+         
+    }
+    static void DataPrint(Queue<char> queue1)
+    {
+        for(int i =0; i< queue1.GetLength(); i++)
         {
             
             Console.Write("{0}",queue1.Get(i),queue1);
